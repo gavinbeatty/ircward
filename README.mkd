@@ -1,0 +1,7 @@
+ircward
+=======
+
+IRC / Haskell
+
+    $ ghc --make -O2 -threaded -rtsopts Main.hs
+

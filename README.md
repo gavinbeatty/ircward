@@ -1,4 +1,0 @@
-ircward
-=======
-
-IRC / Haskell
